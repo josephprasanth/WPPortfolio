@@ -48,7 +48,10 @@ h4 {
     border-collapse: #d95131;
 }
 
+img {
+max-width: 100%;
 
+}
 /*===Hero===*/
 
 #hero {
@@ -115,3 +118,6 @@ h4 {
     font-weight: bold;
     display: block;
 }
+
+
+/*-- Layout ---*/
